@@ -22,9 +22,7 @@ Before running the script, ensure the following:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/FaneSamha/easylinuxdomain.git
-   cd easylinuxdomain && chmod +x script.sh
-   ./script.sh
+   git clone https://github.com/FaneSamha/easylinuxdomain.git && cd easylinuxdomain && chmod +x script.sh && ./script.sh
    ```
 
    Follow the script and enjoy :) 
